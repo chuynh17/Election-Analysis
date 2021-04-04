@@ -28,5 +28,28 @@ The analysis of the election that:
       - Diana DeGette , who received 73.8% of the vote and 272,892 number of votes
 
 ## Challenge Overview 
+Seth, the client, was seeking additinoal information about the election race. Him and his team wanted information that was based around the counties involved in the election audit. He tasked us with providing the following:
+
+1. Calculate the voter turnout for each county.
+2. Calculate the percentage of votes for each county contributed to the election.
+3. Determine which county had the largest turnout.
 
 ## Challenge Summary
+
+#### Election Results
+Total Votes: 369,711
+
+County Results:
+Jefferson County: 38,855 (10.5%)
+Denver: 306,055 (82.8%)
+Arapahoe: 24,801 (6.7%)
+
+The Largest County turnout was Denver County.
+
+Candidate Results:
+Charles Casper Stockham: 85,213 (23.0%)
+Dianna DeGette: 272,892 (73.8%)
+Raymon Anthony Doane: 11,606 (3.1%)
+
+Election Winner:
+Dianna DeGette, with 73.8% of the votes for a total of 272,892 votes.
